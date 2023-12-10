@@ -122,8 +122,8 @@ class ComposerStaticInit54c05e64f01f49eb136e9af7b3075bdd
         'phpDocumentor\\Reflection\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
-            1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
         ),
         'Webmozart\\Assert\\' => 
         array (
@@ -395,8 +395,8 @@ class ComposerStaticInit54c05e64f01f49eb136e9af7b3075bdd
         ),
         'Doctrine\\Common\\' => 
         array (
-            0 => __DIR__ . '/..' . '/doctrine/event-manager/src',
-            1 => __DIR__ . '/..' . '/doctrine/common/src',
+            0 => __DIR__ . '/..' . '/doctrine/common/src',
+            1 => __DIR__ . '/..' . '/doctrine/event-manager/src',
         ),
         'Doctrine\\Bundle\\MigrationsBundle\\' => 
         array (
